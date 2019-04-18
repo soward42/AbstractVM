@@ -1,0 +1,9 @@
+push int8(24)
+push int32(42000)
+add
+store int8(10)
+clear
+dump
+load int8(10)
+dump
+exit

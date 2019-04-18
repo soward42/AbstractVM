@@ -1,0 +1,34 @@
+push int8(108)
+print
+push int8(109)
+print
+push int8(110)
+print
+push int8(111)
+print
+push int8(112)
+print
+push int8(113)
+print
+push int8(114)
+print
+push int8(115)
+print
+push int8(116)
+print
+push int8(117)
+print
+push int8(118)
+print
+push int8(119)
+print
+push int8(120)
+print
+push int8(121)
+print
+push int8(122)
+print
+push int8(123)
+print
+dump
+exit

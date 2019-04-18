@@ -1,0 +1,5 @@
+push int8(108)
+push double(453.543)
+mul
+dump
+exit

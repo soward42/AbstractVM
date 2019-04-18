@@ -1,0 +1,5 @@
+push int32(453656)
+push int32(3656)
+sub
+dump
+exit

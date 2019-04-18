@@ -1,0 +1,10 @@
+push int8(42)
+push int8(42)
+push int8(42)
+add
+store int8(10)
+dump
+load int8(10)
+add
+dump
+exit

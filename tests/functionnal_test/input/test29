@@ -1,0 +1,5 @@
+push int32(36)
+push int16(36)
+mul
+dump
+exit
